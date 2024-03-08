@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月8号添加
+#### work7z (广州) - [Github](https://github.com/work7z)
+* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费开源跨平台的程序员效率工具箱，涵盖各类加密解密、格式化、数据库、计时器等实用工具。 - [更多介绍](https://laf-tools.com)
+* 
 ### 2024年3月7号添加
 #### oBlank [Twitter](https://twitter.com/oBlankX)
 * :white_check_mark: [简单记](https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001)：本地私密日记/记事本，智能标签，集成OpenAI，iOS 应用
